@@ -15,6 +15,8 @@ class BitLogic {
 
     System.out.println("        a = " + binary[a]);
     System.out.println("        b = " + binary[b]);
+System.out.println("        a = " + binary[a]);
+    System.out.println("        b = " + binary[b]);
     System.out.println("      a|b = " + binary[c]);
     System.out.println("      a&b = " + binary[d]);
     System.out.println("      a^b = " + binary[e]);

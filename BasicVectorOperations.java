@@ -5,6 +5,7 @@ public static void main(String a[])
 Vector <String> vct = new Vector<String> (5);
 //adding elements to the end
 vct.addElement("First");
+vct.addElement("First");
 vct.add("Second");
 vct.add("Third");
 System.out.println(vct);
